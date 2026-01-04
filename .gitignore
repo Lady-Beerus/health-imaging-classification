@@ -1,4 +1,14 @@
-data/raw/images/
-.ipynb_checkpoints/
-anaconda_projects/
 
+
+# Data (ignore all local dataset files)
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Anaconda / local tooling
+anaconda_projects/
